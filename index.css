@@ -1,0 +1,49 @@
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/001/984/880/non_2x/abstract-colorful-geometric-overlapping-background-and-texture-free-vector.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    font-family: Poppins, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: darkgreen;
+}
+
+.count-wrapper{
+    max-width:300px;
+    margin:0 auto;
+    background:white;
+    padding:5px;
+    border-radius:10px;
+    border: 2px solid black;
+    box-shadow: 4px 4px 20px black;
+}
+
