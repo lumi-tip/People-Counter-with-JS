@@ -39,7 +39,7 @@ button {
 
 .count-wrapper{
     max-width:300px;
-    margin:0 auto;
+    margin:auto;
     background:white;
     padding:5px;
     border-radius:10px;
